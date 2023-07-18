@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Unfold Events</string>
+    <string name="welcome">Welcome</string>
+    <string name="name">name</string>
+    <string name="email">email</string>
+    <string name="sign_out">Sign out</string>
+    <string name="Name">name</string>
+    <string name="Welcome">Welcome</string>
+    <string name="Email">email</string>
+    <string name="SignOut">Sign Out</string>
+    <string name="book_event">Book Event</string>
+    <string name="my_bookings">My Bookings</string>
+    <string name="full_name">Full Name</string>
+    <string name="fullname">Full Name</string>
+</resources>
